@@ -1,5 +1,3 @@
-# deep-learning-classification-pytorch
-
 # Deep Learning Project: Sports Classification
 
 This project focuses on building a deep learning model for multi-class classification of sports images using the PyTorch framework. The dataset for this project is sourced from Kaggle and consists of images categorized by different sports.
